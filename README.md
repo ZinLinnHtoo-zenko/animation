@@ -1,1 +1,1 @@
-live demo: https://ZinLinnHtoo-zenko/.github.io/animation/
+live demo: https://zinlinnhtoo-zenko.github.io/animation/
